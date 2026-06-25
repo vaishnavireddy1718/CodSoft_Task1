@@ -51,7 +51,15 @@ LinkedIn:
 https://www.linkedin.com/in/arra-vaishnavi-reddy-1264323a3/
 
 ---
-
 ## ⭐ Internship
 
-This project was developed as **Task 1 – Mobile App Signup Flow** for the **CodSoft UI/UX Design Internship (June Batch C3)**.
+**Organization:** CodSoft
+
+**Domain:** UI/UX Design Internship
+
+**Task:** Task 1 – Mobile App Signup Flow
+
+**Batch:** June Batch C3
+
+**Internship ID:** BY25RY297417
+
